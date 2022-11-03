@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/8198e747-e35b-4aed-986d-a6a726b64dd2/AppServices/subscriptions/8198e747-e35b-4aed-986d-a6a726b64dd2/resourceGroups/static-website-poc/providers/Microsoft.Web/sites/demohero",
+    "appService.deploySubpath": "."
+}
